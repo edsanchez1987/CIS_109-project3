@@ -1,0 +1,10 @@
+C:\Users\Eduardo\source\repos\eds_screenSaver\bin\Debug\eds_screenSaver.exe.config
+C:\Users\Eduardo\source\repos\eds_screenSaver\bin\Debug\eds_screenSaver.exe
+C:\Users\Eduardo\source\repos\eds_screenSaver\bin\Debug\eds_screenSaver.pdb
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.ScreenSaver.resources
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.exe
+C:\Users\Eduardo\source\repos\eds_screenSaver\obj\Debug\eds_screenSaver.pdb
